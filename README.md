@@ -46,7 +46,7 @@ cd to the path where you've stored the files:
 
 Run this command:
 
-    cat *parta* > Terra-R1-A.img.tar.xz
+    cat *part-a* > Terra-R1-A.img.tar.xz
 
 ## Want to test it without installing? Not a problem, you don't have to install it to give it a try here is a chroot script to aid you.
 
