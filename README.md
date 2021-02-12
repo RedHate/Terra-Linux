@@ -33,7 +33,7 @@ What's in it?
     Alsa
     img2fb (my own invention, must be root or add your profile to the video group)
 
-What isnt in it?
+What isn't in it?
 
 Any shared libraries other than libc.
 
