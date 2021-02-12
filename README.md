@@ -16,16 +16,18 @@ What's in it?
     Busybox
     Net-Tools
     Wireless-Tools
-    WPA supplicant
+    WPA_Supplicant
     Dbus
     Irssi
     Ngircd
     Lighttpd
     Tmux
+    Screen
+    w3m
     Gpm
     Nano
     Htop
-    Lmsensors
+    LMSensors
     MPlayer (plays on frame buffer with playvideo $file)
     Mencoder
     Alsa
