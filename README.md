@@ -1,3 +1,5 @@
+![terra-sprite.jpg](https://github.com/RedHate/Terra-Linux/blob/main/terra-sprite.jpg)
+
 # Terra Linux for ASUS C202
 
 Terra-Linux is a statically compiled linux-from-source rootfs for the Terra Chromebook (asus c202). The intention behind its design was to create a small footprint cli-driven environment with all the important trimmings.
